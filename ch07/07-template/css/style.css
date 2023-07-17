@@ -179,7 +179,7 @@ body.member3 section a.btnView{
 	box-shadow: 5px 10px 20px rgba(255, 17, 196, 0.357);
 }
 /* member4 */
-body.member4 {
+/* body.member4 {
 	background-color: #f5f0ff;
 }
 body.member4 section article.profile img {
@@ -188,4 +188,4 @@ body.member4 section article.profile img {
 body.member4 section a.btnView{
 	background: linear-gradient(45deg, #8e74ff, #a011ff);
 	box-shadow: 5px 10px 20px rgba(160, 17, 255, 0.4);
-}
+} */
